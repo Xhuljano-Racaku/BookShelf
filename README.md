@@ -1,1 +1,1 @@
-This is an audiobook application that allows you to choose a book and play it. While you pause it it stops. If you hit pause again, it starts where you leave it. If you click stop button it will stop and start over.
+This is an audiobook application that allows you to choose a book and play it. While you pause it it stops. If you hit pause again, it starts where you leave it. If you click stop button it will stop and start over... You can use it both vertical and horizontal modes.
